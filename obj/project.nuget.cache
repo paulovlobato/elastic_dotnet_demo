@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "C0haBp9zMve8jQ923FsqJpuxtKFs3VvVwbtv/IUkmTOCMUN0vBrP8S7dw8s3Tp9PmiNiQ0ihCfESOrNiPE5rhw==",
+  "success": true,
+  "projectFilePath": "/Users/victor.lobato/Documents/Projects/bigDumpster/elastic_dotnet/elastic_dotnet/elastic_dotnet.csproj",
+  "expectedPackageFiles": [
+    "/Users/victor.lobato/.nuget/packages/elasticsearch.net/7.17.5/elasticsearch.net.7.17.5.nupkg.sha512",
+    "/Users/victor.lobato/.nuget/packages/microsoft.csharp/4.6.0/microsoft.csharp.4.6.0.nupkg.sha512",
+    "/Users/victor.lobato/.nuget/packages/nest/7.17.5/nest.7.17.5.nupkg.sha512",
+    "/Users/victor.lobato/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/victor.lobato/.nuget/packages/system.diagnostics.diagnosticsource/5.0.0/system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
